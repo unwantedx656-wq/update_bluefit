@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "0.14.1",
-    "installerUrl":  "https://raw.githubusercontent.com/unwantedx656-wq/update_bluefit/main/BlueFitApp-Setup-0.14.1.exe",
-    "installerSha256":  "a860ab3fdc1673947e8808fe91f338ffe462ea488a764cc1cbab1f8089d6c853"
+    "version":  "0.15.0",
+    "installerUrl":  "https://raw.githubusercontent.com/unwantedx656-wq/update_bluefit/main/BlueFitApp-Setup-0.15.0.exe",
+    "installerSha256":  "9dd883581ea45a5bfec0aeff75eac9654674adef7b39ef5d8b7e9b74ea0288d2"
 }
